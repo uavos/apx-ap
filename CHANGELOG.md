@@ -2,6 +2,19 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.0.10](https://github.com/uavos/public-test/releases/tag/release-11.0.10) (02/21/21)
+
+> Branch: `main`\
+> Date: `02/21/21 14:49:14`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/14ef0d5569d606ad7bb12eaa63e76b2964a9de9b...86b2095853c9027db31c6e135fae03cb6f94b988)
+
+### New Features
+* controls NaN protect
+
+### Bug Fixes
+* tasks mutexes and conditional vars on linux
+* no runway landing goes to STBY
+
 ## [APX Firmware v11.0.6](https://github.com/uavos/public-test/releases/tag/release-11.0.6) (02/19/21)
 
 > Branch: `main`\
