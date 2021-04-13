@@ -2,6 +2,24 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.0.43](https://github.com/uavos/public-test/releases/tag/release-11.0.43) (04/13/21)
+
+> Branch: `main`\
+> Date: `04/13/21 19:10:38`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/3e684358e0cf7736efec3b801429aeb620334b75...0f8ae03fc3d4cabb69d50751d17efa30c1ef46c7)
+
+### New Features
+* sim app self reboot
+
+### Bug Fixes
+* conf hash auto update
+* telemetry config change online update
+* mission file hash
+* system time t0 for sim
+
+### Performance Enhancements
+* nodes shell and modules
+
 ## [APX Firmware v11.0.19](https://github.com/uavos/public-test/releases/tag/release-11.0.19) (03/13/21)
 
 > Branch: `main`\
