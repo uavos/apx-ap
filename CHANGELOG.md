@@ -2,6 +2,42 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.0.50](https://github.com/uavos/public-test/releases/tag/release-11.0.50) (04/15/21)
+
+> Branch: `main`\
+> Date: `04/15/21 16:58:31`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/f2a17f03f286bc972e09b6be99973dc84b0a5ba2...4dc12f4ec7a6f8e399eb9c939fb3552fa0f208d6)
+
+### New Features
+* COM node tested
+
+### Bug Fixes
+* shell report for tasks
+
+## [APX Firmware v11.0.48](https://github.com/uavos/public-test/releases/tag/release-11.0.48) (04/15/21)
+
+> Branch: `main`\
+> Date: `04/15/21 16:49:48`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/f2a17f03f286bc972e09b6be99973dc84b0a5ba2...0eafb250b549b17886e2c4e3e4531450e9c9e2cc)
+
+### New Features
+* COM node tested
+
+### Bug Fixes
+* shell report for tasks
+
+## [APX Firmware v11.0.46](https://github.com/uavos/public-test/releases/tag/release-11.0.46) (04/15/21)
+
+> Branch: `main`\
+> Date: `04/15/21 13:49:31`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/f2a17f03f286bc972e09b6be99973dc84b0a5ba2...11c91d2233882a30a0165e45e575d774e61849c1)
+
+### New Features
+* COM node tested
+
+### Bug Fixes
+* shell report for tasks
+
 ## [APX Firmware v11.0.43](https://github.com/uavos/public-test/releases/tag/release-11.0.43) (04/13/21)
 
 > Branch: `main`\
