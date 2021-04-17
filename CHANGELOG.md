@@ -2,6 +2,26 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.0.62](https://github.com/uavos/public-test/releases/tag/release-11.0.62) (04/17/21)
+
+> Branch: `main`\
+> Date: `04/17/21 17:09:46`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/a7c74cc9d3921de6a867c7adcd2f8ed3db2058dc...aa1d391a59df5ab4b4a8e317bb87ead661730ad5)
+
+### New Features
+* VCP UARTs
+* VCP telemetry mode
+* ifc node VCP ports
+
+### Bug Fixes
+* nav gpio P1-2 fix
+
+### Performance Enhancements
+* module status inheritance
+* identity module fixes
+* NMT modules addressing through indexes
+* vehicle identity refactoring
+
 ## [APX Firmware v11.0.50](https://github.com/uavos/public-test/releases/tag/release-11.0.50) (04/15/21)
 
 > Branch: `main`\
