@@ -2,6 +2,21 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.0.68](https://github.com/uavos/public-test/releases/tag/release-11.0.68) (04/20/21)
+
+> Branch: `main`\
+> Date: `04/20/21 16:37:27`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/f71d93ed62b830c0fab282c7f722448442bde0dd...33d5a705dbed3cfdbef95139d2da238515d392b7)
+
+### New Features
+* controls protection on AHRS failures
+* gyro and acc critical failure protection
+* AHRS in-air reset
+* procedures protection against AHRS failures
+
+### Bug Fixes
+* node reset configuration procedure
+
 ## [APX Firmware v11.0.62](https://github.com/uavos/public-test/releases/tag/release-11.0.62) (04/17/21)
 
 > Branch: `main`\
