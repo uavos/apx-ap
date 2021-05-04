@@ -2,6 +2,22 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.0.91](https://github.com/uavos/public-test/releases/tag/release-11.0.91) (05/04/21)
+
+> Branch: `main`\
+> Date: `05/04/21 15:49:50`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/7d285927249ac6694e7ca28eea5961f5466323be...b87343daba32e286c7a690b170801fec1425b770)
+
+### New Features
+* STBY circle adjust
+* documentation files
+* runway takeoff safety auto checks
+
+### Bug Fixes
+* pitch in telemetry stream packing
+* att cmd limit for RC overrides
+* telemetry aux data format handling
+
 ## [APX Firmware v11.0.68](https://github.com/uavos/public-test/releases/tag/release-11.0.68) (04/20/21)
 
 > Branch: `main`\
