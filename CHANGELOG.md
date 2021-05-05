@@ -2,6 +2,18 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.0.94](https://github.com/uavos/public-test/releases/tag/release-11.0.94) (05/05/21)
+
+> Branch: `main`\
+> Date: `05/05/21 21:45:28`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/bf69b93d79fdf7273eac4a842729f58108db6e22...76357655d12803e81171263e5c4e9d6cd387742d)
+
+### New Features
+* landing cancel procedure stage
+
+### Bug Fixes
+* LD proc brakes off on APP vs INIT
+
 ## [APX Firmware v11.0.91](https://github.com/uavos/public-test/releases/tag/release-11.0.91) (05/04/21)
 
 > Branch: `main`\
