@@ -2,6 +2,24 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.0.105](https://github.com/uavos/public-test/releases/tag/release-11.0.105) (05/08/21)
+
+> Branch: `main`\
+> Date: `05/08/21 16:19:08`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/8c8cdaa061a58af1cadaab6d9510aa18e85feec1...f6663e3d6a5bd270639723c8649c5f3c0da457fb)
+
+### New Features
+* TECS altitude priority operation (TO/LD)
+* throttle block option on landing finished
+* slip estimator with sensors data
+* stability estimator
+* stability gains and trims for attitude controllers
+* U-turns optimization option
+* mission item select commands for WPT and TAXI
+
+### Bug Fixes
+* bearing management for L1 controllers
+
 ## [APX Firmware v11.0.94](https://github.com/uavos/public-test/releases/tag/release-11.0.94) (05/05/21)
 
 > Branch: `main`\
