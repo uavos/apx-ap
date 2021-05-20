@@ -2,6 +2,24 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.0.122](https://github.com/uavos/public-test/releases/tag/release-11.0.122) (05/20/21)
+
+> Branch: `main`\
+> Date: `05/20/21 17:04:48`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/bf83564214f01fa53d668d34441d8272dd356bf7...bdbe2002e6b269a834a0352c5965233c0d745d11)
+
+### New Features
+* uptime telemetry provider
+* AHRS mutex protection
+* fuel estimator
+* WASM vmexec requests support
+* fuel sensor processing
+
+### Bug Fixes
+* mission online update for WPT, LD, TO
+* throttle cut behavior on takeoff
+* inner loops validation and config check
+
 ## [APX Firmware v11.0.105](https://github.com/uavos/public-test/releases/tag/release-11.0.105) (05/08/21)
 
 > Branch: `main`\
