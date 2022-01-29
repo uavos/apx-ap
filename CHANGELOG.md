@@ -2,6 +2,32 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.1](https://github.com/uavos/public-test/releases/tag/release-11.1.1) (01/29/22)
+
+> Branch: `main`\
+> Date: `01/29/22 20:16:15`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/b89829ecb064554b8045f0df38f40d4c2e7ff061...9e2e015ee76939f288adf41ae0dbdedf81582c13)
+
+### New Features
+* heli hover regulators
+* heli hover transitions
+* engine governor with procedures
+* engine regulator procedures
+* engine warning est
+* heli hover climb/sink limits
+* sim vehicle UID by callsign ([`22`](https://github.com/uavos/public-test/issues/22))
+* sim bias airspeed sensor
+
+### Bug Fixes
+* TAS for Energy estimations
+* LANDING pattern estimators
+* L1 loiter near circle center
+* ProcTO launcher and STBY
+* imu sensor orientation in gps
+
+### Performance Enhancements
+* shiva controllers refactoring
+
 ## [APX Firmware v11.0.122](https://github.com/uavos/public-test/releases/tag/release-11.0.122) (05/20/21)
 
 > Branch: `main`\
