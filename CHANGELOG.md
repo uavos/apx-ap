@@ -2,7 +2,16 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
-## [APX Firmware v11.1.1](https://github.com/uavos/public-test/releases/tag/release-11.1.1) (01/29/22)
+## [APX Firmware v11.1.6](https://github.com/uavos/apx-ap/releases/tag/release-11.1.6) (02/04/22)
+
+> Branch: `ekf`\
+> Date: `02/04/22 16:21:38`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/3136ea4501cf9d3b07eab96da4d7aaf7a8b0ee01...08ecdb2f61b725ac83c3347289b6afb74d53bff7)
+
+### Performance Enhancements
+* apx-math removal, better math for EKF
+
+## [APX Firmware v11.1.1](https://github.com/uavos/apx-ap/releases/tag/release-11.1.1) (01/29/22)
 
 > Branch: `main`\
 > Date: `01/29/22 20:16:15`\
@@ -15,7 +24,7 @@ All notable changes to the **APX Autopilot Firmware** will be documented in this
 * engine regulator procedures
 * engine warning est
 * heli hover climb/sink limits
-* sim vehicle UID by callsign ([`22`](https://github.com/uavos/public-test/issues/22))
+* sim vehicle UID by callsign ([`22`](https://github.com/uavos/apx-ap/issues/22))
 * sim bias airspeed sensor
 
 ### Bug Fixes
@@ -28,7 +37,7 @@ All notable changes to the **APX Autopilot Firmware** will be documented in this
 ### Performance Enhancements
 * shiva controllers refactoring
 
-## [APX Firmware v11.0.122](https://github.com/uavos/public-test/releases/tag/release-11.0.122) (05/20/21)
+## [APX Firmware v11.0.122](https://github.com/uavos/apx-ap/releases/tag/release-11.0.122) (05/20/21)
 
 > Branch: `main`\
 > Date: `05/20/21 17:04:48`\
@@ -46,7 +55,7 @@ All notable changes to the **APX Autopilot Firmware** will be documented in this
 * throttle cut behavior on takeoff
 * inner loops validation and config check
 
-## [APX Firmware v11.0.105](https://github.com/uavos/public-test/releases/tag/release-11.0.105) (05/08/21)
+## [APX Firmware v11.0.105](https://github.com/uavos/apx-ap/releases/tag/release-11.0.105) (05/08/21)
 
 > Branch: `main`\
 > Date: `05/08/21 16:19:08`\
@@ -64,7 +73,7 @@ All notable changes to the **APX Autopilot Firmware** will be documented in this
 ### Bug Fixes
 * bearing management for L1 controllers
 
-## [APX Firmware v11.0.94](https://github.com/uavos/public-test/releases/tag/release-11.0.94) (05/05/21)
+## [APX Firmware v11.0.94](https://github.com/uavos/apx-ap/releases/tag/release-11.0.94) (05/05/21)
 
 > Branch: `main`\
 > Date: `05/05/21 21:45:28`\
@@ -76,7 +85,7 @@ All notable changes to the **APX Autopilot Firmware** will be documented in this
 ### Bug Fixes
 * LD proc brakes off on APP vs INIT
 
-## [APX Firmware v11.0.91](https://github.com/uavos/public-test/releases/tag/release-11.0.91) (05/04/21)
+## [APX Firmware v11.0.91](https://github.com/uavos/apx-ap/releases/tag/release-11.0.91) (05/04/21)
 
 > Branch: `main`\
 > Date: `05/04/21 15:49:50`\
@@ -92,7 +101,7 @@ All notable changes to the **APX Autopilot Firmware** will be documented in this
 * att cmd limit for RC overrides
 * telemetry aux data format handling
 
-## [APX Firmware v11.0.68](https://github.com/uavos/public-test/releases/tag/release-11.0.68) (04/20/21)
+## [APX Firmware v11.0.68](https://github.com/uavos/apx-ap/releases/tag/release-11.0.68) (04/20/21)
 
 > Branch: `main`\
 > Date: `04/20/21 16:37:27`\
@@ -107,7 +116,7 @@ All notable changes to the **APX Autopilot Firmware** will be documented in this
 ### Bug Fixes
 * node reset configuration procedure
 
-## [APX Firmware v11.0.62](https://github.com/uavos/public-test/releases/tag/release-11.0.62) (04/17/21)
+## [APX Firmware v11.0.62](https://github.com/uavos/apx-ap/releases/tag/release-11.0.62) (04/17/21)
 
 > Branch: `main`\
 > Date: `04/17/21 17:09:46`\
@@ -127,7 +136,7 @@ All notable changes to the **APX Autopilot Firmware** will be documented in this
 * NMT modules addressing through indexes
 * vehicle identity refactoring
 
-## [APX Firmware v11.0.50](https://github.com/uavos/public-test/releases/tag/release-11.0.50) (04/15/21)
+## [APX Firmware v11.0.50](https://github.com/uavos/apx-ap/releases/tag/release-11.0.50) (04/15/21)
 
 > Branch: `main`\
 > Date: `04/15/21 16:58:31`\
@@ -139,7 +148,7 @@ All notable changes to the **APX Autopilot Firmware** will be documented in this
 ### Bug Fixes
 * shell report for tasks
 
-## [APX Firmware v11.0.48](https://github.com/uavos/public-test/releases/tag/release-11.0.48) (04/15/21)
+## [APX Firmware v11.0.48](https://github.com/uavos/apx-ap/releases/tag/release-11.0.48) (04/15/21)
 
 > Branch: `main`\
 > Date: `04/15/21 16:49:48`\
@@ -151,7 +160,7 @@ All notable changes to the **APX Autopilot Firmware** will be documented in this
 ### Bug Fixes
 * shell report for tasks
 
-## [APX Firmware v11.0.46](https://github.com/uavos/public-test/releases/tag/release-11.0.46) (04/15/21)
+## [APX Firmware v11.0.46](https://github.com/uavos/apx-ap/releases/tag/release-11.0.46) (04/15/21)
 
 > Branch: `main`\
 > Date: `04/15/21 13:49:31`\
@@ -163,7 +172,7 @@ All notable changes to the **APX Autopilot Firmware** will be documented in this
 ### Bug Fixes
 * shell report for tasks
 
-## [APX Firmware v11.0.43](https://github.com/uavos/public-test/releases/tag/release-11.0.43) (04/13/21)
+## [APX Firmware v11.0.43](https://github.com/uavos/apx-ap/releases/tag/release-11.0.43) (04/13/21)
 
 > Branch: `main`\
 > Date: `04/13/21 19:10:38`\
@@ -181,7 +190,7 @@ All notable changes to the **APX Autopilot Firmware** will be documented in this
 ### Performance Enhancements
 * nodes shell and modules
 
-## [APX Firmware v11.0.19](https://github.com/uavos/public-test/releases/tag/release-11.0.19) (03/13/21)
+## [APX Firmware v11.0.19](https://github.com/uavos/apx-ap/releases/tag/release-11.0.19) (03/13/21)
 
 > Branch: `main`\
 > Date: `03/13/21 16:10:53`\
@@ -190,7 +199,7 @@ All notable changes to the **APX Autopilot Firmware** will be documented in this
 ### Optimizations
 * TECS control refactoring
 
-## [APX Firmware v11.0.17](https://github.com/uavos/public-test/releases/tag/release-11.0.17) (03/13/21)
+## [APX Firmware v11.0.17](https://github.com/uavos/apx-ap/releases/tag/release-11.0.17) (03/13/21)
 
 > Branch: `main`\
 > Date: `03/13/21 12:14:50`\
@@ -199,7 +208,7 @@ All notable changes to the **APX Autopilot Firmware** will be documented in this
 ### Bug Fixes
 * cmd_tecs reg on landing span from config
 
-## [APX Firmware v11.0.15](https://github.com/uavos/public-test/releases/tag/release-11.0.15) (03/11/21)
+## [APX Firmware v11.0.15](https://github.com/uavos/apx-ap/releases/tag/release-11.0.15) (03/11/21)
 
 > Branch: `main`\
 > Date: `03/11/21 14:12:37`\
@@ -208,7 +217,7 @@ All notable changes to the **APX Autopilot Firmware** will be documented in this
 ### Bug Fixes
 * cmd_tecs reg on landing span from config
 
-## [APX Firmware v11.0.12](https://github.com/uavos/public-test/releases/tag/release-11.0.12) (02/28/21)
+## [APX Firmware v11.0.12](https://github.com/uavos/apx-ap/releases/tag/release-11.0.12) (02/28/21)
 
 > Branch: `main`\
 > Date: `02/28/21 09:00:57`\
@@ -216,7 +225,7 @@ All notable changes to the **APX Autopilot Firmware** will be documented in this
 
 Security updates
 
-## [APX Firmware v11.0.10](https://github.com/uavos/public-test/releases/tag/release-11.0.10) (02/21/21)
+## [APX Firmware v11.0.10](https://github.com/uavos/apx-ap/releases/tag/release-11.0.10) (02/21/21)
 
 > Branch: `main`\
 > Date: `02/21/21 14:49:14`\
@@ -229,7 +238,7 @@ Security updates
 * tasks mutexes and conditional vars on linux
 * no runway landing goes to STBY
 
-## [APX Firmware v11.0.6](https://github.com/uavos/public-test/releases/tag/release-11.0.6) (02/19/21)
+## [APX Firmware v11.0.6](https://github.com/uavos/apx-ap/releases/tag/release-11.0.6) (02/19/21)
 
 > Branch: `main`\
 > Date: `02/19/21 22:37:28`\
@@ -238,7 +247,7 @@ Security updates
 ### Bug Fixes
 * mag sim
 
-## [APX Firmware v11.0.2](https://github.com/uavos/public-test/releases/tag/release-11.0.2) (02/04/21)
+## [APX Firmware v11.0.2](https://github.com/uavos/apx-ap/releases/tag/release-11.0.2) (02/04/21)
 
 > Branch: `main`\
 > Date: `02/04/21 12:14:34`\

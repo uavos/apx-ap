@@ -5,7 +5,7 @@
 * engine regulator procedures
 * engine warning est
 * heli hover climb/sink limits
-* sim vehicle UID by callsign ([`22`](https://github.com/uavos/public-test/issues/22))
+* sim vehicle UID by callsign ([`22`](https://github.com/uavos/apx-ap/issues/22))
 * sim bias airspeed sensor
 
 # Bug Fixes
