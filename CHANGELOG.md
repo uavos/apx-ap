@@ -2,6 +2,28 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.21](https://github.com/uavos/apx-ap/releases/tag/release-11.1.21) (02/11/22)
+
+> Branch: `main`\
+> Date: `02/11/22 20:08:46`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/ed3251cc6dca84d618f3226d087533c7adcf3a4f...0d7736a7492464949cc9a09cad9b8298947b1691)
+
+### New Features
+* com-DLF1 board introduction and HW mappings
+* MMC5983 magnetometer driver
+* VCP UARTs as Identity links
+
+## [APX Firmware v11.1.19](https://github.com/uavos/apx-ap/releases/tag/release-11.1.19) (02/11/22)
+
+> Branch: `main`\
+> Date: `02/11/22 19:59:37`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/ed3251cc6dca84d618f3226d087533c7adcf3a4f...cae0f603be2252182c1277b1b7b4c2f07615e21e)
+
+### New Features
+* com-DLF1 board introduction and HW mappings
+* MMC5983 magnetometer driver
+* VCP UARTs as Identity links
+
 ## [APX Firmware v11.1.6](https://github.com/uavos/apx-ap/releases/tag/release-11.1.6) (02/04/22)
 
 > Branch: `ekf`\
