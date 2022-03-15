@@ -2,6 +2,62 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.52](https://github.com/uavos/apx-ap/releases/tag/release-11.1.52) (03/16/22)
+
+> Branch: `main`\
+> Date: `03/16/22 00:06:48`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/5380d38c0e13ddb56cc6f2e8c129f26ab6f77b53...a1acb5666ac8739cf9218d48efc3a1357287ee95)
+
+### New Features
+* new range of cas sensors
+* JetCat protocol
+* analog input module
+* ktas gain
+* power ap on and pwr check on takeoff
+
+### Bug Fixes
+* PWM in ifc device
+* mux config in ifc
+* ktas gain
+* JetCat protocol
+* WASM serial port packet size
+
+## [APX Firmware v11.1.51](https://github.com/uavos/apx-ap/releases/tag/release-11.1.51) (03/16/22)
+
+> Branch: `main`\
+> Date: `03/16/22 00:06:21`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/1c5886267480e0d5e97e29ddf26b2c69da4443f7...fbf4d126090b43515c057899f3a6368b2d7a0df4)
+
+Security updates
+
+## [APX Firmware v11.1.49](https://github.com/uavos/apx-ap/releases/tag/release-11.1.49) (03/15/22)
+
+> Branch: `main`\
+> Date: `03/15/22 23:46:33`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/c6a42e28a4a0b78a4242c2c7a4dc602a98400eb7...3092175cc3cff188763cef538917aa85f73b7159)
+
+Security updates
+
+## [APX Firmware v11.1.47](https://github.com/uavos/apx-ap/releases/tag/release-11.1.47) (03/15/22)
+
+> Branch: `main`\
+> Date: `03/15/22 22:03:37`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/5380d38c0e13ddb56cc6f2e8c129f26ab6f77b53...eb52de02bba0996bcc0784cf398a6b1f762b12d3)
+
+### New Features
+* new range of cas sensors
+* JetCat protocol
+* analog input module
+* ktas gain
+* power ap on and pwr check on takeoff
+
+### Bug Fixes
+* PWM in ifc device
+* mux config in ifc
+* ktas gain
+* JetCat protocol
+* WASM serial port packet size
+
 ## [APX Firmware v11.1.21](https://github.com/uavos/apx-ap/releases/tag/release-11.1.21) (02/11/22)
 
 > Branch: `main`\
