@@ -2,6 +2,20 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.60](https://github.com/uavos/apx-ap/releases/tag/release-11.1.60) (03/22/22)
+
+> Branch: `dev`\
+> Date: `03/22/22 17:36:15`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/b538ca57f55b107c5374adf7ff47ac9a28231d58...d3ad5203edacca4b71341815b8a280d29ff3938f)
+
+### Bug Fixes
+* launcher procedure
+
+### Performance Enhancements
+* EKF upgrade
+* Matrix math update
+* AHRS magnetometer faults mgmt
+
 ## [APX Firmware v11.1.52](https://github.com/uavos/apx-ap/releases/tag/release-11.1.52) (03/16/22)
 
 > Branch: `main`\
