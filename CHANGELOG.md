@@ -2,6 +2,26 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.96](https://github.com/uavos/apx-ap/releases/tag/release-11.1.96) (08/06/22)
+
+> Branch: `main`\
+> Date: `08/06/22 17:27:47`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/92acda4f75b6403d74b07e0961b5d443d9d6f4e2...5b624aa9059800e3b2d2dac40d81d540a9d7687f)
+
+### New Features
+* telemetry slots auto requests
+
+### Bug Fixes
+* PWM in com.DLF1
+* mandala reports values init
+* L1 track mode waypoints triggers (closes [`2`](https://github.com/uavos/apx-ap/issues/2))
+* ATS module
+
+### Performance Enhancements
+* telemetry streams and auto sync
+* binary search for telemetry streamer
+* static subs
+
 ## [APX Firmware v11.1.60](https://github.com/uavos/apx-ap/releases/tag/release-11.1.60) (03/22/22)
 
 > Branch: `dev`\
