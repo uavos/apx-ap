@@ -2,6 +2,15 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.8](https://github.com/uavos/apx-ap/releases/tag/release-11.1.8) (11/05/23)
+
+> Branch: `main`\
+> Date: `11/05/23 16:43:22`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/76a9d9d14ce0f272f197fa0dc51ec51a3c9f1b40...ed9b8c912a366a9cd9a072ef1719c0c5f09fdcd2)
+
+### Performance Enhancements
+* WASM engine upgrade
+
 ## [APX Firmware v11.1.7](https://github.com/uavos/apx-ap/releases/tag/release-11.1.7) (09/17/23)
 
 > Branch: `main`\
