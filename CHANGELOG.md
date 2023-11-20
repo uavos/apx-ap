@@ -2,6 +2,19 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.10](https://github.com/uavos/apx-ap/releases/tag/release-11.1.10) (11/20/23)
+
+> Branch: `main`\
+> Date: `11/20/23 16:28:45`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/03c62fa73cedb8322736160653282641ddea1cf0...ecfed254ead9ca1b45804ee2a8a8e4f8136164a2)
+
+### New Features
+* bias for sim data
+* `VCP` receiver timeout packetization
+
+### Bug Fixes
+* UART timeout based receiver
+
 ## [APX Firmware v11.1.9](https://github.com/uavos/apx-ap/releases/tag/release-11.1.9) (11/10/23)
 
 > Branch: `main`\
