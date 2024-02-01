@@ -2,6 +2,26 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.11](https://github.com/uavos/apx-ap/releases/tag/release-11.1.11) (02/01/24)
+
+> Branch: `main`\
+> Date: `02/01/24 09:14:59`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/a9566bff5cd859f3a082f979f4d00fa46ff9a1fb...daa8058c9e934f249aacbd2ae868004eae54a200)
+
+### New Features
+* bias for sim data
+
+### Bug Fixes
+* `SPI` over `DMA` for `H7`
+* `Ubuntu 20.04 LTS` release build for `SIM` node
+* protocols FIFO
+* posix stack size constraints
+* xudp task config temporary
+* RS485 de re
+
+### Performance Enhancements
+* wasm build optimizations
+
 ## [APX Firmware v11.1.10](https://github.com/uavos/apx-ap/releases/tag/release-11.1.10) (11/20/23)
 
 > Branch: `main`\
