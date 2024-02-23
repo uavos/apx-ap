@@ -2,6 +2,21 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.12](https://github.com/uavos/apx-ap/releases/tag/release-11.1.12) (02/23/24)
+
+> Branch: `main`\
+> Date: `02/23/24 09:01:05`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/7d740ac4f9030e1d8b8b2e2758340a471cfbf994...677200511cbc37d024ba459ff9228c40bc53708a)
+
+### Bug Fixes
+* pos state for landing
+* MMC5983 DRDY pull up
+* `mmc5983` mag body frame
+* configure pwm
+* condition for limit cmd_roll
+* title in vcp
+* quantity channels for r4 node
+
 ## [APX Firmware v11.1.11](https://github.com/uavos/apx-ap/releases/tag/release-11.1.11) (02/01/24)
 
 > Branch: `main`\
