@@ -2,6 +2,17 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.13](https://github.com/uavos/apx-ap/releases/tag/release-11.1.13) (02/26/24)
+
+> Branch: `main`\
+> Date: `02/26/24 14:09:00`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/ac7b4676e9242d2db1e4639b823a0910f7df03f7...528e2686f38dfc218220d5a20222b136d2e89d41)
+
+### Bug Fixes
+* `nav.R4` 16kHz IMU timing
+* drop first IMU reads after reset
+* `nav.R4` MAVLINK protocols
+
 ## [APX Firmware v11.1.12](https://github.com/uavos/apx-ap/releases/tag/release-11.1.12) (02/23/24)
 
 > Branch: `main`\
