@@ -2,6 +2,20 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.14](https://github.com/uavos/apx-ap/releases/tag/release-11.1.14) (03/11/24)
+
+> Branch: `main`\
+> Date: `03/11/24 20:02:09`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/d1b0786c690b0baf2905962abbb0487de1c29b5f...f34f01bb98da25208b636e25d9787342917d63e4)
+
+### New Features
+* conf parameters for yaw control coordinated turns
+
+### Bug Fixes
+* coordinated turn `VSO` bottom limit
+* contstraints for `slip` and `roll` for turns
+* conf fields refactoring
+
 ## [APX Firmware v11.1.13](https://github.com/uavos/apx-ap/releases/tag/release-11.1.13) (02/26/24)
 
 > Branch: `main`\
