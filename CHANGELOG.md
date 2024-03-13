@@ -2,6 +2,15 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.15](https://github.com/uavos/apx-ap/releases/tag/release-11.1.15) (03/12/24)
+
+> Branch: `main`\
+> Date: `03/12/24 12:39:03`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/1bd86961ff8f5260281bbb11c18b8aee9f9e5c8f...20d926b6112823b5e154ed6ea8f60ec4cbfd5201)
+
+### Bug Fixes
+* raw GPS velocities for MAVLINK msg
+
 ## [APX Firmware v11.1.14](https://github.com/uavos/apx-ap/releases/tag/release-11.1.14) (03/11/24)
 
 > Branch: `main`\
