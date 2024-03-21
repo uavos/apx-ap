@@ -2,6 +2,20 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.16](https://github.com/uavos/apx-ap/releases/tag/release-11.1.16) (03/19/24)
+
+> Branch: `fix-heli-turns`\
+> Date: `03/19/24 21:43:55`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/c19d3e86a27a81aeb50b61f5a4e8fe7b93f72992...72b82a7dd1ba968adb0724cd29b3f36246f33477)
+
+### New Features
+* airspeed control refactoring for VTOL
+
+### Bug Fixes
+* VCP reconfiguration and bundle sub duplicates check
+* VTOL hover transitions (exit to HDG)
+* climb/sink rate gains
+
 ## [APX Firmware v11.1.15](https://github.com/uavos/apx-ap/releases/tag/release-11.1.15) (03/12/24)
 
 > Branch: `main`\
