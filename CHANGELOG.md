@@ -2,6 +2,16 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.17](https://github.com/uavos/apx-ap/releases/tag/release-11.1.17) (03/25/24)
+
+> Branch: `main`\
+> Date: `03/25/24 15:08:05`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/03be0ee051e4943169d82cc6700c26c8d2b5a7c8...7b99b1af37ef2310218296a6f5083cf7cb9b3923)
+
+### Bug Fixes
+* `MAVLINK` TIMESYNC units (nanosec)
+* MAVLINK packets reception on multiple consecutive messages
+
 ## [APX Firmware v11.1.16](https://github.com/uavos/apx-ap/releases/tag/release-11.1.16) (03/19/24)
 
 > Branch: `fix-heli-turns`\
