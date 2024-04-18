@@ -2,6 +2,23 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.18](https://github.com/uavos/apx-ap/releases/tag/release-11.1.18) (04/10/24)
+
+> Branch: `main`\
+> Date: `04/10/24 11:08:03`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/32f93f41c176fd5310c09bc78b0a78c308db3deb...28495ea7c204e33645113772041e97b5d0824fa2)
+
+### New Features
+* shock/busy CPU test commands
+
+### Bug Fixes
+* VCP rx fifo ovf handling
+* stop bits conf options
+* VCP rx fifo full errors spam
+* MAVLINK HEARTBEAT stream
+* MAV_MODE_FLAG_SAFETY_ARMED by default is true
+* MAV base_status msg flags
+
 ## [APX Firmware v11.1.17](https://github.com/uavos/apx-ap/releases/tag/release-11.1.17) (03/25/24)
 
 > Branch: `main`\
