@@ -2,6 +2,31 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.19](https://github.com/uavos/apx-ap/releases/tag/release-11.1.19) (05/06/24)
+
+> Branch: `main`\
+> Date: `05/06/24 20:22:28`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/754b1475713297391da828ddf04021f9110d0f16...8df665ec5e5d4cb054e87728e7cafa2cbe26a77c)
+
+### Bug Fixes
+* dataset for telemetry
+* MAVLINK byte re-ordering
+* dataset for telemetry
+* init PWM
+* xusb TX error messages when disconnected
+* silent disabled `protocols` module children
+* Wind Estimator for VTOL
+* validate all binded controls in mixer on init
+* Wind Estimator for VTOL
+* gspeed enables AHRS airdata
+* use VSI for AHRS airdata for VTOL
+* helipad landing speed control
+* protocols module enabled check
+* add VPS variances
+
+### Performance Enhancements
+* gpio mixer fixes
+
 ## [APX Firmware v11.1.18](https://github.com/uavos/apx-ap/releases/tag/release-11.1.18) (04/10/24)
 
 > Branch: `main`\
