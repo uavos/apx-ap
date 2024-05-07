@@ -2,6 +2,15 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.20](https://github.com/uavos/apx-ap/releases/tag/release-11.1.20) (05/07/24)
+
+> Branch: `main`\
+> Date: `05/07/24 09:18:23`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/b9793139f7aea6a92fdc33f9316dc70e63712430...6d35447d6ff889e94a02b275fcecdb60a67483bf)
+
+### Bug Fixes
+* sim macos universal binary
+
 ## [APX Firmware v11.1.19](https://github.com/uavos/apx-ap/releases/tag/release-11.1.19) (05/06/24)
 
 > Branch: `main`\
