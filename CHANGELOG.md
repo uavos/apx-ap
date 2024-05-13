@@ -2,6 +2,27 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.21](https://github.com/uavos/apx-ap/releases/tag/release-11.1.21) (05/12/24)
+
+> Branch: `main`\
+> Date: `05/12/24 20:01:23`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/4a591f866d3009bd5a27d9da2a481c99e33f8494...33134c70df0aad01ff6dc3fc72feea39fcafea21)
+
+### New Features
+* MAVLINK mission control
+* VTOL fly to hover transitions
+* heli hover velocity control
+
+### Bug Fixes
+* AHRS default tune
+* Telemetry mode for VCP
+* maneuvers logic
+* VTOL low speed TECS
+* AHRS airdata mode fix (wind speed)
+* feed forward for governor
+* min prop for kff
+* landing height source option
+
 ## [APX Firmware v11.1.20](https://github.com/uavos/apx-ap/releases/tag/release-11.1.20) (05/07/24)
 
 > Branch: `main`\
