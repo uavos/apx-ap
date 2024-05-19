@@ -2,6 +2,20 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.22](https://github.com/uavos/apx-ap/releases/tag/release-11.1.22) (05/19/24)
+
+> Branch: `main`\
+> Date: `05/19/24 18:28:55`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/0055e7bbe4487fcb7d95fcb5b4e55c69c8afea0c...dedb9902b893f1254cf951c5818d992733cda4f3)
+
+### Bug Fixes
+* `SPI` over `DMA` for `H7`
+* MAVEV mission controls
+* TECS min speed
+* HUB interfaces mutual exclusion
+* MDB publisher init
+* publishers thread safety
+
 ## [APX Firmware v11.1.21](https://github.com/uavos/apx-ap/releases/tag/release-11.1.21) (05/12/24)
 
 > Branch: `main`\
