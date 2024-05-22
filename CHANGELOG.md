@@ -2,6 +2,19 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.23](https://github.com/uavos/apx-ap/releases/tag/release-11.1.23) (05/21/24)
+
+> Branch: `main`\
+> Date: `05/21/24 22:37:22`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/dc525cc67c7057b137df48012d19d55285c53f8c...9d7272876b0e97e54b8874e6cbc764f64c8e6ed4)
+
+### New Features
+* safety datalink timeout
+
+### Bug Fixes
+* publishers schedule
+* GPIO LLD events init don't touch pin config
+
 ## [APX Firmware v11.1.22](https://github.com/uavos/apx-ap/releases/tag/release-11.1.22) (05/19/24)
 
 > Branch: `main`\
