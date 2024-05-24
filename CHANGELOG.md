@@ -2,6 +2,18 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.24](https://github.com/uavos/apx-ap/releases/tag/release-11.1.24) (05/23/24)
+
+> Branch: `main`\
+> Date: `05/23/24 17:30:05`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/547c014952208f96e94ff1ee0d22d6c577c93c05...018181a5f5ba7f503f32567f22becda0d2bca1a7)
+
+### Bug Fixes
+* ahrs & shiva config updaters
+* HRT timer scheduler bug
+* HRT timer scheduler bug
+* ahrs & shiva config updaters
+
 ## [APX Firmware v11.1.23](https://github.com/uavos/apx-ap/releases/tag/release-11.1.23) (05/21/24)
 
 > Branch: `main`\
