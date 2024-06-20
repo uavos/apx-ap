@@ -2,6 +2,21 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.25](https://github.com/uavos/apx-ap/releases/tag/release-11.1.25) (06/19/24)
+
+> Branch: `main`\
+> Date: `06/19/24 20:57:27`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/41afc26c373276eb4879fca97ba9f2ef3d4b158f...1351da7865e197a5209f89d713093b732561cf9d)
+
+### New Features
+* WPT mode wp passed signal via `stage=1`
+* script vmexec with arg
+
+### Bug Fixes
+* XPDR and telemetry refactoring
+* MAVEV vmexec via NAMED_VALUE_FLOAT
+* MAVEV go WPT mode from STBY on MISSION_SET_CURRENT
+
 ## [APX Firmware v11.1.24](https://github.com/uavos/apx-ap/releases/tag/release-11.1.24) (05/23/24)
 
 > Branch: `main`\
