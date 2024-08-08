@@ -2,6 +2,18 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.1.26](https://github.com/uavos/apx-ap/releases/tag/release-11.1.26) (08/08/24)
+
+> Branch: `main`\
+> Date: `08/08/24 14:54:08`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/347798c88beaa53056b64637eabf25bec6fd5861...a517b9b2d6eb6481ca760727f6472c79922c6e15)
+
+### Bug Fixes
+* invalid samples for icm42688
+* reading FIFO for icm42688
+* VOLZ protocol
+* reset ekf
+
 ## [APX Firmware v11.1.25](https://github.com/uavos/apx-ap/releases/tag/release-11.1.25) (06/19/24)
 
 > Branch: `main`\
