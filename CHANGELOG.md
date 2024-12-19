@@ -2,6 +2,24 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.0](https://github.com/uavos/apx-ap/releases/tag/release-11.2.0) (12/07/24)
+
+> Branch: `main`\
+> Date: `12/07/24 11:28:47`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/193b6f7ecb7d4f3898a88c3feb5d9a354f768be3...5c084f82a8b781893741ebc26efab3628326d8ad)
+
+### New Features
+* user data from xplane to sim
+
+### Bug Fixes
+* trim zero for yaw
+* type for trim zero
+* distance to vehicle
+
+### Performance Enhancements
+* mdb Sub as static class template
+* mdb static lists
+
 ## [APX Firmware v11.1.26](https://github.com/uavos/apx-ap/releases/tag/release-11.1.26) (08/08/24)
 
 > Branch: `main`\
