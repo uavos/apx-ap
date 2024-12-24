@@ -2,6 +2,21 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.2](https://github.com/uavos/apx-ap/releases/tag/release-11.2.2) (12/23/24)
+
+> Branch: `main`\
+> Date: `12/23/24 19:27:56`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/620f71878c65b3bc8e98c9e0bc83df8b71b845a9...11c487f730da404ce37100fdd53e0fea2b2f66a2)
+
+### New Features
+* mag reset command
+* EKF status reporting
+
+### Bug Fixes
+* estimator init
+* axis for mmc5983
+* mag declination for sim
+
 ## [APX Firmware v11.2.1](https://github.com/uavos/apx-ap/releases/tag/release-11.2.1) (12/19/24)
 
 > Branch: `main`\
