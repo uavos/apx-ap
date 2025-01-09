@@ -2,6 +2,21 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.4](https://github.com/uavos/apx-ap/releases/tag/release-11.2.4) (01/08/25)
+
+> Branch: `main`\
+> Date: `01/08/25 21:01:50`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/db4c8bd731643653754e06ed85291d89f6af6e16...c668df699d0140754332a9729456542ea1135d7e)
+
+### New Features
+* altitude tracking wpt navigation mode
+
+### Bug Fixes
+* protect LD/TO/TAXI modes from fly-to-here GCS commands
+
+### Performance Enhancements
+* wp switch behavior refactoring
+
 ## [APX Firmware v11.2.3](https://github.com/uavos/apx-ap/releases/tag/release-11.2.3) (01/06/25)
 
 > Branch: `main`\
