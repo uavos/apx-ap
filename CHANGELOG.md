@@ -2,6 +2,22 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.5](https://github.com/uavos/apx-ap/releases/tag/release-11.2.5) (01/16/25)
+
+> Branch: `main`\
+> Date: `01/16/25 21:28:32`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/dd2e30efcb0042b4dbd5a3821771f402bcd827d7...9354463b01f3848ea7a0d80dcf1b032988d25631)
+
+### Bug Fixes
+* no mission warning message
+* Takeoff cancel if no runway
+* remove repeated console messages on missing takeoff runway
+* STBY min radius for VTOL
+
+### Performance Enhancements
+* atomize regulators
+* Pub via template
+
 ## [APX Firmware v11.2.4](https://github.com/uavos/apx-ap/releases/tag/release-11.2.4) (01/08/25)
 
 > Branch: `main`\
