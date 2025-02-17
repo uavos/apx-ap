@@ -2,6 +2,18 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.6](https://github.com/uavos/apx-ap/releases/tag/release-11.2.6) (01/27/25)
+
+> Branch: `main`\
+> Date: `01/27/25 18:22:44`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/b8099a272277f0af95aeb694e11b567926dbb73b...885399eda1f2bc6bd9b7c3c81f860e9642fdab54)
+
+### Bug Fixes
+* use cmd roll in coordinated turn rate bias control
+
+### Performance Enhancements
+* fully static sub via template
+
 ## [APX Firmware v11.2.5](https://github.com/uavos/apx-ap/releases/tag/release-11.2.5) (01/16/25)
 
 > Branch: `main`\
