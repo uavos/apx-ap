@@ -2,6 +2,15 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.7](https://github.com/uavos/apx-ap/releases/tag/release-11.2.7) (03/24/25)
+
+> Branch: `main`\
+> Date: `03/24/25 21:08:24`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/5ea835a01001c9e6185f2414538c31627e7ffa6f...c1c31be9863be0c6f316ec2ea50e36e0bd7268cc)
+
+### Bug Fixes
+* min tc for yaw reg
+
 ## [APX Firmware v11.2.6](https://github.com/uavos/apx-ap/releases/tag/release-11.2.6) (01/27/25)
 
 > Branch: `main`\
