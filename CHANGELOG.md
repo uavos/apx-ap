@@ -2,6 +2,30 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.8](https://github.com/uavos/apx-ap/releases/tag/release-11.2.8) (05/06/25)
+
+> Branch: `main`\
+> Date: `05/06/25 11:56:18`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/26b028d20c4615a7ff82bf1fbd7161563e5ec02b...051a9260a81ede29d5c30ba8ac45d482b3d7e4ea)
+
+### New Features
+* temp sensors via adc
+
+### Bug Fixes
+* request timeout in mdb
+* request data for PubConnection
+* temp imu icm42688
+* event sub connection
+* gain ktas
+* landing on missing runway behavior
+* voltage mode for ADC
+* check local data
+* local pub bind
+* transform setpoint to body angular rates
+
+### Performance Enhancements
+* remove old async mission signals
+
 ## [APX Firmware v11.2.7](https://github.com/uavos/apx-ap/releases/tag/release-11.2.7) (03/24/25)
 
 > Branch: `main`\
