@@ -2,6 +2,25 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.9](https://github.com/uavos/apx-ap/releases/tag/release-11.2.9) (06/03/25)
+
+> Branch: `main`\
+> Date: `06/03/25 19:53:48`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/eefcf5cf70198f73d406ff3643e8da43934bb635...f4a5ed9e0188ab410cc810891f017da46357830e)
+
+### New Features
+* dev blocking by error rate
+
+### Bug Fixes
+* slip control at low ground speed
+* build nav R41
+* xcan filter rx
+* warning  for gps RS1
+* mag calibration pkt routing
+* disconnect mission
+* include module
+* debug FDCAN
+
 ## [APX Firmware v11.2.8](https://github.com/uavos/apx-ap/releases/tag/release-11.2.8) (05/06/25)
 
 > Branch: `main`\
