@@ -2,6 +2,31 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.10](https://github.com/uavos/apx-ap/releases/tag/release-11.2.10) (08/30/25)
+
+> Branch: `main`\
+> Date: `08/30/25 15:13:03`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/a9f384627e3ce1b7fd8ea2dd1732204e44a90c4f...a430c5f4f35c35a6251749c288fe8f3f91aafbf7)
+
+### New Features
+* WASM task scheduling and delays
+* config for ghanta node has been added
+
+### Bug Fixes
+* nomag option sub
+* hrt timer PLH1
+* identity block request pids
+* wasm `time_ms` native u32 wrapping
+* ATS module
+* canas ID
+* check timeout for EstPitot and EstAgl
+* report uplink timeout
+* sub timeout checking
+* canas protocol
+* adjust radius for POI
+* adjust radius
+* PubSub for status
+
 ## [APX Firmware v11.2.9](https://github.com/uavos/apx-ap/releases/tag/release-11.2.9) (06/03/25)
 
 > Branch: `main`\
