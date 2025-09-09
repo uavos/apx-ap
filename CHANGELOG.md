@@ -2,6 +2,19 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.11](https://github.com/uavos/apx-ap/releases/tag/release-11.2.11) (09/08/25)
+
+> Branch: `main`\
+> Date: `09/08/25 19:35:55`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/20ca056c939609b0e05d44d3b6e95698dc10b2f3...05b04d2be46a33904346027751c7d7d9fb89f716)
+
+### New Features
+* allow out of range values for PWM outputs
+
+### Bug Fixes
+* control of set temperature
+* proc heater
+
 ## [APX Firmware v11.2.10](https://github.com/uavos/apx-ap/releases/tag/release-11.2.10) (08/30/25)
 
 > Branch: `main`\
