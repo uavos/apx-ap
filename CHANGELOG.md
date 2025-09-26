@@ -2,6 +2,21 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.12](https://github.com/uavos/apx-ap/releases/tag/release-11.2.12) (09/25/25)
+
+> Branch: `main`\
+> Date: `09/25/25 23:27:38`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/3eaa8664f4d5cf12e345837fcc0417c77c356a50...3e527c2d7bda5840b35a0fb1fbfead2ea1d68e3a)
+
+### New Features
+* nogps initial wind input from GCS
+
+### Bug Fixes
+* reset wind
+
+### Administration and Chores
+* update subproject commit reference
+
 ## [APX Firmware v11.2.11](https://github.com/uavos/apx-ap/releases/tag/release-11.2.11) (09/08/25)
 
 > Branch: `main`\
