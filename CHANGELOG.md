@@ -2,6 +2,20 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.14](https://github.com/uavos/apx-ap/releases/tag/release-11.2.14) (10/14/25)
+
+> Branch: `geofence`\
+> Date: `10/14/25 20:58:19`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/8535f79f0de723251a4ac98780b5c6b7e6f7cfec...13bf60bfdfb76a2fcbd085dcc1f4631c833e1fb6)
+
+### New Features
+* geofence mission elements
+
+### Bug Fixes
+* derivative angle
+* status pitot heater
+* course derivative
+
 ## [APX Firmware v11.2.13](https://github.com/uavos/apx-ap/releases/tag/release-11.2.13) (10/01/25)
 
 > Branch: `main`\
