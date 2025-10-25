@@ -2,6 +2,33 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.15](https://github.com/uavos/apx-ap/releases/tag/release-11.2.15) (10/25/25)
+
+> Branch: `main`\
+> Date: `10/25/25 03:26:54`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/b16af442e4aaca1613cdc702db5bd55e91e27e96...11032f2f6b4934163348ded6f28e6e30d99785cc)
+
+### New Features
+* reg L1 lateral acceleration bias
+* lateral_acc() method to class RegHdg
+* humidity sensor
+
+### Bug Fixes
+* wpt switch trigger timeout
+* orbits counter ontrack behavior
+* velocity limit
+* conf for svmf1
+* ADC for swmf1
+* config for RS422
+* wasm pool size for f4
+* I2C slave address
+
+### Comments
+
+**feat: humidity sensor**
+
+Driver for humidity sensor implemented
+
 ## [APX Firmware v11.2.14](https://github.com/uavos/apx-ap/releases/tag/release-11.2.14) (10/14/25)
 
 > Branch: `geofence`\
