@@ -2,6 +2,18 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.16](https://github.com/uavos/apx-ap/releases/tag/release-11.2.16) (10/27/25)
+
+> Branch: `main`\
+> Date: `10/27/25 12:46:36`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/2f124c971ca0a5a2c8a74bba6ae90a2637010948...d78a50c59442601140b867507b0618628dc38d08)
+
+### New Features
+* baro reset command
+
+### Bug Fixes
+* reference point updated for takeoff proc
+
 ## [APX Firmware v11.2.15](https://github.com/uavos/apx-ap/releases/tag/release-11.2.15) (10/25/25)
 
 > Branch: `main`\
