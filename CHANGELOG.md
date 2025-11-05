@@ -2,6 +2,24 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.17](https://github.com/uavos/apx-ap/releases/tag/release-11.2.17) (11/04/25)
+
+> Branch: `main`\
+> Date: `11/04/25 20:26:36`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/647f9424ac97ff98c9134d8af338f05b26e880c2...a67aec83e2a9318076fe8cf18fcce9ff42e8077d)
+
+### New Features
+* guidance module
+* reset errors counter command `cle`
+* regs parameter tuning
+* TECS anti-stall weighting factor limit
+
+### Bug Fixes
+* ref initialized for takeoff proc
+
+### Performance Enhancements
+* isolate shiva events and procedures
+
 ## [APX Firmware v11.2.16](https://github.com/uavos/apx-ap/releases/tag/release-11.2.16) (10/27/25)
 
 > Branch: `main`\
