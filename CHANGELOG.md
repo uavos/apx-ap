@@ -2,6 +2,21 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.18](https://github.com/uavos/apx-ap/releases/tag/release-11.2.18) (11/05/25)
+
+> Branch: `ekf`\
+> Date: `11/05/25 22:11:46`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/ff6f5a899d452148f0bffab8b5688d27aea0bbf3...4ae08f861fa7c2d08e191ccaa55204f6abd7538e)
+
+### New Features
+* optimize guide nav
+
+### Bug Fixes
+* reg yaw to slip for guide mode
+* proc reset evt handling
+* guide throttle override
+* reg heading control close to destination
+
 ## [APX Firmware v11.2.17](https://github.com/uavos/apx-ap/releases/tag/release-11.2.17) (11/04/25)
 
 > Branch: `main`\
