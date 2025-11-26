@@ -2,6 +2,33 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.19](https://github.com/uavos/apx-ap/releases/tag/release-11.2.19) (11/25/25)
+
+> Branch: `main`\
+> Date: `11/25/25 17:35:10`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/ff6f5a899d452148f0bffab8b5688d27aea0bbf3...849d2e36971ce3c2f2d65b71ac8f83884bcce5e6)
+
+### New Features
+* optimize guide nav
+
+### Bug Fixes
+* unpack swarm packet
+* ext interface for Identity module
+* swarm smd_speed
+* cmd_airspeed  control
+* ekf delay for baro and  airspeed
+* reset xtrack & ltrack
+* swarm control
+* build swarm
+* reg yaw to slip for guide mode
+* proc reset evt handling
+* guide throttle override
+* reg heading control close to destination
+* RS232 for com node
+* guide proc no conf leave behavior
+* identity foe swarm
+* set waypoint low altitude
+
 ## [APX Firmware v11.2.18](https://github.com/uavos/apx-ap/releases/tag/release-11.2.18) (11/05/25)
 
 > Branch: `ekf`\
