@@ -2,6 +2,46 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.20](https://github.com/uavos/apx-ap/releases/tag/release-11.2.20) (04/24/26)
+
+> Branch: `main`\
+> Date: `04/24/26 21:51:41`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/8f3e9260ea4c73b75cd729f4a382cadd2775bf17...de6a0e48f19e4572d579986d65144cdf36880a4a)
+
+### New Features
+* heater sensor for PCB
+* fixed operating mode
+
+### Bug Fixes
+* rtk mode for ATS
+* limit cmd_roll fow low altitude
+* limit aux controller
+* pitch limits for landing proc
+* stall prevention for landing proc
+* system clock for L4
+* i2c V2
+* agl status
+* configure rtk module
+* configure gps when initialized rtk module
+* configure relposned msg
+* compensation of cmd_rate for pitch reg
+* bmm350 is enabled
+* copilot review
+* build ATS module
+* altitude in guide module
+* RS485 configure
+* update ref hmsl in proc
+* cmd_altitude in Guide module
+* reset proc Guide
+* copilot review
+
+### Refactoring
+* removed aux controller
+
+### Performance Enhancements
+* ekf update
+* BMM350 driver
+
 ## [APX Firmware v11.2.19](https://github.com/uavos/apx-ap/releases/tag/release-11.2.19) (11/25/25)
 
 > Branch: `main`\
