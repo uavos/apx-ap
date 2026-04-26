@@ -2,6 +2,36 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.21](https://github.com/uavos/apx-ap/releases/tag/release-11.2.21) (04/26/26)
+
+> Branch: `main`\
+> Date: `04/26/26 09:55:29`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/945ebbd95a3abd2102a01c098b2e8ca32e52a7d0...b3e044cddb6b943770dc3a38cbc4cb6daf33bb88)
+
+### Bug Fixes
+* EKF status flags
+* publish EKF status
+* guidance altitude controls
+* default POI altitude behavior
+
+### Performance Enhancements
+* publishers instances uptimizations
+* guidance test flight mode
+
+### Comments
+
+**perf: publishers instances uptimizations**
+
+Co-authored-by: Copilot <copilot@github.com>
+
+**fix: default POI altitude behavior**
+
+Co-authored-by: Copilot <copilot@github.com>
+
+**perf: guidance test flight mode**
+
+Co-authored-by: Copilot <copilot@github.com>
+
 ## [APX Firmware v11.2.20](https://github.com/uavos/apx-ap/releases/tag/release-11.2.20) (04/24/26)
 
 > Branch: `main`\
