@@ -2,6 +2,21 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.22](https://github.com/uavos/apx-ap/releases/tag/release-11.2.22) (05/28/26)
+
+> Branch: `main`\
+> Date: `05/28/26 22:55:16`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/a4012e379ddf9da0b2089dbd94dd20ae0d867e4e...c401c41fc215c5d831b59443c6a1a76deb8ec65f)
+
+### New Features
+* guidance procedure with stages
+
+### Bug Fixes
+* heli prop start position
+* copilot review
+* update eta
+* update eta2
+
 ## [APX Firmware v11.2.21](https://github.com/uavos/apx-ap/releases/tag/release-11.2.21) (04/26/26)
 
 > Branch: `main`\
