@@ -2,6 +2,19 @@
 
 All notable changes to the **APX Autopilot Firmware** will be documented in this file.
 
+## [APX Firmware v11.2.23](https://github.com/uavos/apx-ap/releases/tag/release-11.2.23) (06/11/26)
+
+> Branch: `main`\
+> Date: `06/11/26 10:26:40`\
+> Diff: [uavos/apx-fw](https://github.com/uavos/apx-fw/compare/afd9cec1313021d038c502c8b203975e4b2c59cf...f9c169b4ee7266e0b43a05ca909737da9a0dc75a)
+
+### New Features
+* throttle control in launcher proc
+
+### Bug Fixes
+* limit cmd_pitch in TOUCHDOWN moe
+* calc distance error in GUIDE mode
+
 ## [APX Firmware v11.2.22](https://github.com/uavos/apx-ap/releases/tag/release-11.2.22) (05/28/26)
 
 > Branch: `main`\
